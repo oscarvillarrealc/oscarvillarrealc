@@ -13,4 +13,4 @@ I'm a Computer Science graduate passionate about building reliable, user-focused
 
 ---
 
-📫 Reach me: [Portfolio](https://villarrealc.com) | [LinkedIn](https://www.linkedin.com/in/oscarvillarrealc/)
+📫 Reach me: [Portfolio](https://villarrealc.com) | [LinkedIn](https://www.linkedin.com/in/oscarvillarrealc/) | ✉️ [oscar@villarrealc.com](mailto:oscar@villarrealc.com)
