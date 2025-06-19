@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Oscar Villarreal
 
-<!--
-**oscarvillarrealc/oscarvillarrealc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate passionate about building reliable, user-focused web apps. I enjoy creating clean interfaces, optimizing backend logic, and automating deployments.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies I Use
+- **Languages**: PHP, JavaScript, HTML, CSS, SQL
+- **Frameworks**: Laravel, Tailwind CSS, React Native (learning), Next.js (learning)
+- **Tools**: Docker, Git, GitHub Actions, Apache, SQL, Linux
+- **Cloud**: Google Cloud, DigitalOcean 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✍️ Quote I Like
+> "How you do one thing is how you do everything."
+
+---
+
+📫 Reach me: [Portfolio](https://villarrealc.com) | [LinkedIn](https://www.linkedin.com/in/oscarvillarrealc/)
