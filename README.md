@@ -9,7 +9,7 @@ I'm a Computer Science graduate passionate about building reliable, user-focused
 - **Cloud**: Google Cloud, DigitalOcean 
 
 ## ✍️ Quote I Like
-> "How you do one thing is how you do everything."
+> "How you do anything is how you do everything."
 
 ---
 
